@@ -1,2 +1,3 @@
 # git-test
-learning
+## in cmd
+1- git clone (link)
